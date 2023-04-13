@@ -1,7 +1,14 @@
+*{
+    background: pink;
+    font-family: 'Poppins',sans-serif;
+    font-size: 40px;
+}
+
 #grid{
-    width: 400px;
-    height: 300px;
+    width: 450px;
+    height: 350px;
     display: flex;
     flex-wrap: wrap;
-    position: center;
+
+
 }
